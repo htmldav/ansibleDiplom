@@ -1,6 +1,6 @@
 ---
 - name: default-jdk
-  hosts: build
+  hosts: all
   become: yes
 
   tasks:
